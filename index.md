@@ -1,6 +1,6 @@
 # Greenstick
 
-
+![figures/meta-genome-logo.png](figures/meta-genome-logo.png)
 
 ### Password and login
 
