@@ -1,4 +1,4 @@
-# Greenstick
+# Metagenome Labs Hub
 
 ![figures/meta-genome-logo.png](figures/meta-genome-logo.png)
 
